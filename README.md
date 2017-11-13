@@ -1,5 +1,5 @@
 # Reactube
-Reactube is a react web application that allows users to search youtube API and return the top 5 videos.
+Reactube is a react web application that allows users to search youtube via API and return the top 5 videos.
 
 # How to use it
 - clone the repository or go to https://dasseya1.github.io/reactube/
